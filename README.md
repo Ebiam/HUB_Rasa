@@ -51,6 +51,10 @@ Lancez la commande:
 
 `$ rasa train`
 
+Vous pouvez obtenir une vue d'ensemble de votre modele:
+
+`$ rasa visualize`
+
 #### **Tests**
 
 -lancez l'interface graphique sur navigateur (requert rasa x):

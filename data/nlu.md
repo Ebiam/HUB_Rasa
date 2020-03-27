@@ -6,16 +6,6 @@
 - good evening
 - hey there
 
-## intent:book_meeting_room
-- I need a meeting room with video projector
-- book me a place 
-- show me available conference rooms 
-- I need a boardroom
-- meeting room 
-- reserve a hall and a whiteboard 
-
-<!-- add the missing intent here. -->
-
 ## intent:goodbye
 - bye
 - goodbye
@@ -58,3 +48,9 @@
 - not very good
 - extremely sad
 - so sad
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
