@@ -1,0 +1,65 @@
+# HUB - Découverte Rasa
+
+## Installation
+
+#### **Pip et Python**
+
+Assurez vous d'avoir python et pip sur votre ordinateur.
+
+Pour cela, lancez la commande:
+
+`$ pip`
+
+Si la commande n'est pas reconnue, suivez les instructions d'installation de pip:
+
+https://pip.pypa.io/en/stable/installing/
+
+#### **Rasa**
+Installez la dernière version de rasa:
+
+`$ git clone https://github.com/RasaHQ/rasa.git`
+
+`$ cd rasa`
+
+`$ pip install -r requirements.txt`
+
+`$ pip install -e .`
+
+Installez la dernière version de rasa sdk:
+
+`$ git clone https://github.com/RasaHQ/rasa-sdk.git`
+
+`$ cd rasa-sdk`
+
+`$ pip install -r requirements.txt`
+
+`$ pip install -e .`
+
+## Compilation et tests
+
+#### **Compilation**
+
+Pour compiler ou recompiler votre code, vous devez entrainer le reseau neuronal.
+
+Lancez la commande:
+
+`$ rasa train`
+
+#### **Tests**
+
+-lancez l'interface graphique sur navigateur (requert rasa x):
+
+`$ rasa x`
+
+-ou bien lancez un shell
+
+`$ rasa shell`
+
+Vous pourrez maintenant interragir avec le chatbot.
+
+
+## Documentation
+
+Installation Rasa : https://rasa.com/docs/rasa/user-guide/installation/
+
+Tutoriels : https://rasa.com/docs/rasa/user-guide/rasa-tutorial/
