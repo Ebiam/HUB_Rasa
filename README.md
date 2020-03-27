@@ -35,7 +35,13 @@ Installez la dernière version de rasa sdk:
 
 `$ pip install -e .`
 
-## Compilation et tests
+## Création, compilation et tests
+
+#### **Création**
+
+Créez un nouveau projet :
+
+`$ rasa init`
 
 #### **Compilation**
 
@@ -57,6 +63,9 @@ Lancez la commande:
 
 Vous pourrez maintenant interragir avec le chatbot.
 
+Si vous utilisez les actions, vous devez lancer un serveur dans un nouveau terminal :
+
+`$ rasa run actions`
 
 ## Documentation
 
