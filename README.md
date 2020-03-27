@@ -15,6 +15,11 @@ Si la commande n'est pas reconnue, suivez les instructions d'installation de pip
 https://pip.pypa.io/en/stable/installing/
 
 #### **Rasa**
+
+Suivez le tutoriel (recommandé) : https://rasa.com/docs/rasa/user-guide/installation/
+
+Ou bien...
+
 Installez la dernière version de rasa:
 
 `$ git clone https://github.com/RasaHQ/rasa.git`
@@ -77,4 +82,7 @@ Installation Rasa : https://rasa.com/docs/rasa/user-guide/installation/
 
 Tutoriels : https://rasa.com/docs/rasa/user-guide/rasa-tutorial/
 
+Tuto Pipelines : https://rasa.com/docs/rasa/nlu/choosing-a-pipeline/
+
 Tuto slots : https://rasa.com/docs/rasa/core/slots/
+
