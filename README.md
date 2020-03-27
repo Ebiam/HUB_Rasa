@@ -26,11 +26,11 @@ Installez la dernière version de rasa:
 
 `$ cd rasa`
 
-`$ pip install -r requirements.txt`
+`$ curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python`
 
-`$ pip install -e .`
+`$ poetry install`
 
-Installez la dernière version de rasa sdk:
+Installez la dernière version de rasa sdk (optionel, pour les actions):
 
 `$ git clone https://github.com/RasaHQ/rasa-sdk.git`
 
