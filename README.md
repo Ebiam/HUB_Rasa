@@ -76,3 +76,5 @@ Si vous utilisez les actions, vous devez lancer un serveur dans un nouveau termi
 Installation Rasa : https://rasa.com/docs/rasa/user-guide/installation/
 
 Tutoriels : https://rasa.com/docs/rasa/user-guide/rasa-tutorial/
+
+Tuto slots : https://rasa.com/docs/rasa/core/slots/
